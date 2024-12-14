@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🖋️ Languages:
+
 ![Languages](https://img.shields.io/badge/Language-Julia-purple?style=flat&logo=julia&logoColor=white)
 
 🚀 Tools and Frameworks:
