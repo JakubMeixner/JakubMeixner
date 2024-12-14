@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Languages: Python
+![Languages](https://img.shields.io/badge/Language-Julia-purple?style=flat&logo=julia&logoColor=white)
+![Languages](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
+
 
 <!--
 **JakubMeixner/JakubMeixner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
