@@ -2,7 +2,8 @@
 
 🖋️ Languages:
 
-![Languages](https://img.shields.io/badge/Language-Julia-purple?style=flat&logo=julia&logoColor=white)
+![Languages](https://img.shields.io/badge/Language-Python-blue?style=flat&logo=python&logoColor=white)
+
 
 🚀 Tools and Frameworks:
 
