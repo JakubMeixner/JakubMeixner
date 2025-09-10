@@ -14,10 +14,9 @@
 
 ### ⚛️ Areas of Expertise:
 
-- **Machine Learning**: Physics-driven models, neural networks, and advanced frameworks.  
-- **Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B).  
-- **Ab Initio Calculations**: Computational physics and materials modeling.  
-- **Quantum Computing**: Proficiency in Qiskit and quantum algorithms.  
+- **Generative Machine Learning**: Physics-driven models, neural networks, and advanced frameworks.  
+- **Machine Learning Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B).
+- **SQL**: MongoDB.
 - **Web Development**: Basic experience with HTML, CSS, JavaScript, and setting up GitHub Pages.
 
 ---
