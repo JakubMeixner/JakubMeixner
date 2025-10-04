@@ -12,11 +12,14 @@
 
 ---
 
-### ⚛️ Areas of Expertise:
+### Areas of Expertise:
 
-- **Generative Machine Learning**: Physics-driven models, neural networks, and advanced frameworks.  
+- **HPC**
+- **Data Enginering**
+- **Data Analysis**
+- **Data Visualization**
+- **Generative Machine Learning**.
+- **Computer Vision**
 - **Machine Learning Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B).
-- **SQL**: MongoDB.
-- **Web Development**: Basic experience with HTML, CSS, JavaScript, and setting up GitHub Pages.
-
+- **SQL**: MongoDB, MySQL, PostgreSQL.
 ---
