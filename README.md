@@ -30,3 +30,7 @@
 - **Machine Learning Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B).
 - **SQL**: MongoDB, MySQL, PostgreSQL.
 ---
+
+### Certificates:
+
+- **IBM AI Engineer Professional Cerificate**
