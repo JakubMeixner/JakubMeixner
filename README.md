@@ -19,6 +19,7 @@
 ### Areas of Expertise:
 
 - **Git**
+- **CI/CD**
 - **Docker & Kubernetes**
 - **HPC**
 - **Data Enginering**
