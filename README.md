@@ -34,3 +34,4 @@
 ### Certificates:
 
 - **IBM AI Engineer Professional Cerificate**
+- **Google Data Structures in Python**
