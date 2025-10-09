@@ -36,3 +36,4 @@
 - **IBM AI Engineer Professional Cerificate**
 - **Google Data Structures in Python**
 - **Packt: Data Structures and Algorithms: The Complete Masterclass**
+- **Packt: Git and GitHub Complete Master Class Specialization**
