@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I'm Jakub and would like to present my github account. You will find here private ML experiments/some of sources I learn from/completed courses.
 
 ### 🖋️ Languages:
 
@@ -25,10 +25,10 @@
 - **Data Enginering**
 - **Data Analysis**
 - **Data Visualization**
-- **Generative Machine Learning**.
+- **Generative Machine Learning**
 - **Computer Vision**
-- **Machine Learning Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B).
-- **SQL**: MongoDB, MySQL, PostgreSQL.
+- **Machine Learning Experiment Tracking**: Proficiency in TensorBoard and Weights & Biases (W&B)
+- **SQL**: MongoDB, MySQL, PostgreSQL
 ---
 
 ### Certificates:
